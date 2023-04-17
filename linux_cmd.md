@@ -68,7 +68,7 @@
    769 sudo apt update\
    770 apt install mysql-server -y\
    771 ls\
-   772 wget https://download.virtualbox.org/virtualbox/7.0.6/virtualbox-7.0_7.0.6-155176~Ubuntu~jammy_amd64.deb\
+   772 wget https://download.virtualbox.org/virtualbox/7.0.6/virtualbox-7.0_7.0.6-155176~Ubuntu~jammy_amd64.deb \
    773 dpkg -i virtualbox-7.0_7.0.6-155176~Ubuntu~jammy_amd64.deb\
    774 ls\
    775 dpkg -i virtualbox-7.0_7.0.6-155176~Ubuntu~jammy_amd64.deb\
